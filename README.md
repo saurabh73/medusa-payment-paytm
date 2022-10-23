@@ -10,18 +10,6 @@ Add Paytm as a Payment Provider.
 This Plugin enables to use Paytm Payment gateway solution in medusa website to simplify payment from customers. Customers can choose to pay from any credit/debit card, UPI, Netbanking, Paytm Wallet and EMI.
 
 ### Participants
-# Medusa Payment Paytm
-![Medusa Hackathon 2022 - medusa-payment-paytm](https://iili.io/DBLRMG.jpg)
-Add Paytm as a Payment Provider.
-
-## Demo Link
-- [medusa-payment-paytm]()
-
-## About
-### Description
-This Plugin enables to use Paytm Payment gateway solution in medusa website to simplify payment from customers. Customers can choose to pay from any credit/debit card, UPI, Netbanking, Paytm Wallet and EMI.
-
-### Participants
 | Name          | Github Handle                                   | Discord Handle    |
 |---------------|-------------------------------------------------|-------------------|
 | Gyanesh Singh | [GyaniRoman23](https://github.com/gyaniroman23) | gyaniroman23#5220 |
